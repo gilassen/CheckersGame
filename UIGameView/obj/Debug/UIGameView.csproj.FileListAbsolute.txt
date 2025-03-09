@@ -1,0 +1,15 @@
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.csproj.SuggestedBindingRedirects.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.CheckersGameForm.resources
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.CheckersSettingsForm.resources
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\UIGameView.exe.config
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\UIGameView.exe
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\UIGameView.pdb
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\GameLogic.dll
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\GameLogic.pdb
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\bin\Debug\GameLogic.dll.config
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.csproj.CopyComplete
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.exe
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\UIGameView\obj\Debug\UIGameView.pdb

@@ -1,0 +1,7 @@
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\97254\Desktop\CheckersGame\CheckersGame\GameLogic\obj\Debug\GameLogic.pdb
